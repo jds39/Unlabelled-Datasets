@@ -1,0 +1,1 @@
+Source: Hlavnička, J., Čmejla, R., Tykalová, T., Šonka, K., Růžička, E. and Rusz, J., 2017. Automated analysis of connected speech reveals early biomarkers of Parkinson’s disease in patients with rapid eye movement sleep behaviour disorder. Scientific reports, 7(1), 1-13. DOI: https://doi.org/10.1038/s41598-017-00047-5
